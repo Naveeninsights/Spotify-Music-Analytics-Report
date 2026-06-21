@@ -1,0 +1,30 @@
+🎵 Spotify Music Analytics Dashboard
+
+📌 Project Overview
+This project is an interactive Spotify-inspired Power BI dashboard designed to analyze song performance,
+artist popularity, album trends, and music insights. The dashboard provides a comprehensive view of Spotify
+data through dynamic visualizations and interactive 
+
+🚀 Features
+Overview Dashboard with key KPIs
+Artist Performance Analysis
+Song Performance Analysis
+Album Type Distribution
+Popularity Trends by Month and Quarter
+Interactive Navigation Buttons
+Dynamic Filters and Slicers
+Spotify-Themed User 
+
+📊 Key Insights
+789 Distinct Songs Analyzed
+342 Artists Included
+Popularity Analysis Across Songs and Artists
+Album vs Single Performance Comparison
+Monthly and Quarterly Trend 
+
+🛠️ Tools & Technologies
+Power BI
+Power Query
+DAX
+Data Modeling
+Data Visualization
